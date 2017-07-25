@@ -3,6 +3,8 @@
 **Description**:
 GMM-FIELD is a computer program that calculates the local electric field in an aggregate of spherical particles that is hit by a plane light wave.
 
+**Author**: Moritz Ringler (based on *GMM* by Yu-Lin Xu)
+
 **License**: GPLv3
 
 **Files**:

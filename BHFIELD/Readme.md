@@ -3,6 +3,8 @@
 **Description**:
 This is a corrected and enhanced version of BHFIELD: A Fortran program for the Mie field calculation of a coated sphere, University of Toyama (2008-2012).
 
+**Author**: Honoh Suzuki (based on Bohren & Huffman *BHCOAT*)
+
 **License**: GPL
 
 **Files**:
